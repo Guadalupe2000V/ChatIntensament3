@@ -9,17 +9,17 @@ const INMUTABLE_CACHE = "inmutable-v1";
 
 // Corazon de la aplicacion
 const APP_SHELL = [
-    '/',
-    '/index.html',
-    '/css/style.css',
-    '/img/Intensamente.ico',
-    '/img/avatars/Alegria.jpg',
-    '/img/avatars/Desagrado.jpg',
-    '/img/avatars/Furia.jpg',
-    '/img/avatars/Temor.jpg',
-    '/img/avatars/Tristeza.jpg',
-    '/js/app.js',
-    '/js/sw-utils.js'
+    // '/',
+    'index.html',
+    'css/style.css',
+    'img/Intensamente.ico',
+    'img/avatars/Alegria.jpg',
+    'img/avatars/Desagrado.jpg',
+    'img/avatars/Furia.jpg',
+    'img/avatars/Temor.jpg',
+    'img/avatars/Tristeza.jpg',
+    'js/app.js',
+    'js/sw-utils.js'
 ];
 
 // Cache inmutable
